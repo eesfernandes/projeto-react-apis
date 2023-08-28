@@ -39,23 +39,14 @@ Os conteúdos principais  a serem estudados são:
 	- [ ] Header deve ter um botão para adicionar ou remover da Pokedex e outro para voltar a página home.
 - [ ] [Criar um readme](https://www.youtube.com/watch?v=1QKwP0SJK-c "Crie um readme") para o projeto;
 
+### Link do Surge
+https://pokedex-labenu-easley-eesf.surge.sh/
 
-### Instruções para preparar o seu repositório
+### Home Page
+![homePage](https://github.com/eesfernandes/projeto-react-apis/assets/112595682/c60bd2fb-14d0-401c-b7cc-f264bd45e591)
 
-- Faça o fork desse repositório e realize o clone da sua cópia `seu-nome-de-usuario/projeto-lista-intro-javascript`.
-   <details>
-   <summary>Quer uma dica?</summary>
-   <img src="https://firebasestorage.googleapis.com/v0/b/assets-conteudo.appspot.com/o/gerais%2Ffork.png?alt=media&token=7030e997-246a-41fe-a75f-2a2ced61e54d" alt="Como adicionar o projeto no repositório"/>
-   </details>
-- Crie os arquivos do projeto dentro deste repo;
-- **Lembre-se de abrir os PRs para seu próprio repositório.**
-- Para isso, você precisará fazer o projeto utilizando **branches**. Não faça as alterações direto na branch ```main```!
+### Pokedex
+![pokedex](https://github.com/eesfernandes/projeto-react-apis/assets/112595682/a7fed9e0-81fe-4ffe-9066-29ec904d59ca)
 
-### Instruções de entrega
-
-![image](https://user-images.githubusercontent.com/71137294/227538428-52271ed2-df78-4500-b286-25f03aa7bf2e.png)
-1.  [Crie o surge](https://labenu.notion.site/Deploy-de-front-React-com-Surge-f902a03ec1d247dc9af9aee5a1469d96) do seu projeto e pegue o link da publicação(deploy);
-2.  Adicione o link do surge no readme do seu projeto;
-3.  Tire print das páginas do seu projeto e cole no readme;
-4.  Abra um novo Pull Request (PR) com a frase **PR para correção**. Caso não saiba como fazê-lo, assista a esse [vídeo](https://vimeo.com/842884374/3e403f4281?share=copy).
-5.  Envie o link do seu PR e do surge no [formulário de entrega](https://docs.google.com/forms/d/e/1FAIpQLSfGGRaglpzWpdREBBfq3eUCMXkRXuiS61Zfyy0L_Ce0uNIXTA/viewform).
+### DetailPage
+![detailPage](https://github.com/eesfernandes/projeto-react-apis/assets/112595682/24feb11d-f227-4378-945e-ae0df1c6e36b)
