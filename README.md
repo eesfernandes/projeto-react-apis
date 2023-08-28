@@ -37,7 +37,6 @@ Os conteúdos principais  a serem estudados são:
 - **Página de Detalhes**
 	- [ ] Mostrar os detalhes do Pokemon selecionado, com informações descritas
 	- [ ] Header deve ter um botão para adicionar ou remover da Pokedex e outro para voltar a página home.
-- [ ] [Criar um readme](https://www.youtube.com/watch?v=1QKwP0SJK-c "Crie um readme") para o projeto;
 
 ### Link do Surge
 https://pokedex-labenu-easley-eesf.surge.sh/
